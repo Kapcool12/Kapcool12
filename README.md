@@ -2,8 +2,29 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 First of all ,thanks for visiting my profile .Here, what you should know about me:
 
-Aspiring Software Developer
+**Aspiring Software Developer**
 I am a forward-thinking individual with a deep-seated passion for cutting-edge technologies such as AI, ML, and Blockchain Web 3.0. Currently pursuing my Masters in Computer Applications (MCA) at VIT, I am committed to harnessing the power of these transformative fields to solve intricate problems that hold the potential to make a tangible impact on society.
+
+
+🌍  I'm based in India
+🖥️  See my portfolio at Portfolio
+✉️  You can contact me at kapily2001@gmail.com
+🚀  I'm currently working on E-commerce Website
+🧠  I'm learning React and PostgreSQL
+🤝  I'm open to collaborating on FrontEnd projects
+⚡  I love reading, music and politics!
+Skills
+C++JavaScriptHTML5ReactCSS3VueNodeJSExpressPostgreSQLHerokuMongoDB
+
+Socials
+{kapilyadav6}
+
+Badges
+My GitHub Stats
+
+tanvi2104's GitHub stats
+
+Top Languages
 
 
 
