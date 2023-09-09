@@ -17,7 +17,8 @@ Skills
 C++JavaScriptHTML5ReactCSS3VueNodeJSExpressPostgreSQLHerokuMongoDB
 
 Socials
-[Twitter](https://twitter.com/kapilyadav6)
+
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Ftimesofindia.indiatimes.com%2Fgadgets-news%2Fx-replaces-blue-bird-as-twitter-ceo-shares-new-logo-elon-musk-tweets-image-of-hq-building%2Farticleshow%2F102075296.cms&psig=AOvVaw2bj2pzaNDNlKPEf5KXuoco&ust=1694371630584000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDk8qqYnoEDFQAAAAAdAAAAABAD](https://twitter.com/kapilyadav6)
 
 Badges
 My GitHub Stats
