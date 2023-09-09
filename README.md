@@ -1,8 +1,9 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmappum%2Fgitbanner&psig=AOvVaw3oTvZOR8WXwhcK1R-R5rRq&ust=1694373143014000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiWnv-dnoEDFQAAAAAdAAAAABAD)]()
 <h1 align="center">Hi 👋, I'm KAPIL YADAV</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
+<h3 I am a forward-thinking individual with a deep-seated passion for cutting-edge technologies such as AI, ML, and Blockchain Web 3.0. Currently pursuing my Masters in Computer Applications (MCA) at VIT, I am committed to harnessing the power of these transformative fields to solve intricate problems that hold the potential to make a tangible impact on society.</h3>
 
+<img align="right" alt="Coding" width="400"src="https://www.bing.com/images/search?view=detailV2&ccid=P4P%2fdtKk&id=7A6883A884AD55CEE5DF9C3A479C612511E0BF61&thid=OIP.P4P_dtKk5nhiexXv1Hk9eQHaFj&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f81%2f17%2f8b%2f81178b47a8598f0c81c4799f2cdd4057.gif&exph=600&expw=800&q=animated+programmer+imsge&simid=608023153287259110&FORM=IRPRST&ck=6A1DFAC803BF39D67A9511F8A3601123&selectedIndex=3&ajaxhist=0&ajaxserp=0">
 
 - 🔭 I’m currently working on **E-commerce APP**
 
@@ -15,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/kapilyadav6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/kapilyadav6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kapcool05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kapcool05/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
