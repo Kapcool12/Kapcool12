@@ -17,7 +17,7 @@ Skills
 C++JavaScriptHTML5ReactCSS3VueNodeJSExpressPostgreSQLHerokuMongoDB
 
 Socials
-{kapilyadav6}
+[Twitter](https://twitter.com/kapilyadav6)
 
 Badges
 My GitHub Stats
