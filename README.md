@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KAPIL YADAV</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/kapilyadav6" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/kapilyadav6?logo=twitter&style=for-the-badge" alt="https://twitter.com/kapilyadav6" /></a> </p>
+
 
 - 🔭 I’m currently working on **E-commerce APP**
 
