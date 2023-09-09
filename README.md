@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm KAPIL YADAV</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<h3 I am a forward-thinking individual with a deep-seated passion for cutting-edge technologies such as AI, ML, and Blockchain Web 3.0. Currently pursuing my Masters in Computer Applications (MCA) at VIT, I am committed to harnessing the power of these transformative fields to solve intricate problems that hold the potential to make a tangible impact on society.</h3>
+<h3> I am a forward-thinking individual with a deep-seated passion for cutting-edge technologies such as AI, ML, and Blockchain Web 3.0. Currently pursuing my Masters in Computer Applications (MCA) at VIT, I am committed to harnessing the power of these transformative fields to solve intricate problems that hold the potential to make a tangible impact on society </h3>
 
-<img align="right" alt="Coding" width="400"src="https://www.bing.com/images/search?view=detailV2&ccid=P4P%2fdtKk&id=7A6883A884AD55CEE5DF9C3A479C612511E0BF61&thid=OIP.P4P_dtKk5nhiexXv1Hk9eQHaFj&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f81%2f17%2f8b%2f81178b47a8598f0c81c4799f2cdd4057.gif&exph=600&expw=800&q=animated+programmer+imsge&simid=608023153287259110&FORM=IRPRST&ck=6A1DFAC803BF39D67A9511F8A3601123&selectedIndex=3&ajaxhist=0&ajaxserp=0">
-
+<img align="right" alt="Coding" width="400"src="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#query=cartoon%20programmer&position=0&from_view=keyword&track=ais">
 - 🔭 I’m currently working on **E-commerce APP**
 
 - 🌱 I’m currently learning **MERN, Machine Learning**
