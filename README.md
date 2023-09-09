@@ -1,6 +1,12 @@
 ### Hi 👋 I am KAPIL YADAV
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 First of all ,thanks for visiting my profile .Here, what you should know about me:
+
+Aspiring Software Developer
+I am a forward-thinking individual with a deep-seated passion for cutting-edge technologies such as AI, ML, and Blockchain Web 3.0. Currently pursuing my Masters in Computer Applications (MCA) at VIT, I am committed to harnessing the power of these transformative fields to solve intricate problems that hold the potential to make a tangible impact on society.
+
+
+
 <!--
 **Kapcool12/Kapcool12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
