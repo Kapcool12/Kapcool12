@@ -5,20 +5,20 @@ First of all ,thanks for visiting my profile .Here, what you should know about m
 **Aspiring Software Developer**
 I am a forward-thinking individual with a deep-seated passion for cutting-edge technologies such as AI, ML, and Blockchain Web 3.0. Currently pursuing my Masters in Computer Applications (MCA) at VIT, I am committed to harnessing the power of these transformative fields to solve intricate problems that hold the potential to make a tangible impact on society.
 
-
-🌍  I'm based in India
+🌍 ** I'm based in India
 🖥️  See my portfolio at Portfolio
 ✉️  You can contact me at kapily2001@gmail.com
 🚀  I'm currently working on E-commerce Website
 🧠  I'm learning React and PostgreSQL
 🤝  I'm open to collaborating on FrontEnd projects
-⚡  I love reading, music and politics!
+⚡  I love reading, music and politics!**
 Skills
 C++JavaScriptHTML5ReactCSS3VueNodeJSExpressPostgreSQLHerokuMongoDB
 
 Socials
 
-[https://www.google.com/url?sa=i&url=https%3A%2F%2Ftimesofindia.indiatimes.com%2Fgadgets-news%2Fx-replaces-blue-bird-as-twitter-ceo-shares-new-logo-elon-musk-tweets-image-of-hq-building%2Farticleshow%2F102075296.cms&psig=AOvVaw2bj2pzaNDNlKPEf5KXuoco&ust=1694371630584000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDk8qqYnoEDFQAAAAAdAAAAABAD](https://twitter.com/kapilyadav6)
+![image](https://github.com/Kapcool12/Kapcool12/assets/94378669/c036f3a0-5646-4d12-9f69-6fcfe0ffb317)
+
 
 Badges
 My GitHub Stats
