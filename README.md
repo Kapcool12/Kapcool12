@@ -7,14 +7,6 @@
 
 <img align="right" width="400" alt="Coding" src="https://github.com/Kapcool12/Kapcool12/assets/94378669/5de8373b-6323-40f8-8887-7dae2ad0a13b">
 
-- 🔭 I’m currently working on **E-commerce APP**
-
-- 🌱 I’m currently learning **MERN, Machine Learning**
-
-- 👯 I’m looking to collaborate on **Blockchain**
-
-- 🤝 I’m looking for help with **Front-End**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kapilyadav6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/kapilyadav6" height="30" width="40" /></a>
