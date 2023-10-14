@@ -3,6 +3,20 @@
 <h1 align="center">Hi 👋, I'm KAPIL YADAV</h1>
 <h3 align="center">Aspiring Software developer</h3>
 
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Kapil Yadav</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Blockchain🎯</p>
+
 
 
 <img align="right" width="400" alt="Coding" src="https://github.com/Kapcool12/Kapcool12/assets/94378669/5de8373b-6323-40f8-8887-7dae2ad0a13b">
