@@ -7,7 +7,6 @@
 
 ###
 
-<p align="left">My name is Kapil Yadav</p>
 
 ###
 
