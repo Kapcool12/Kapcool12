@@ -18,15 +18,15 @@
 
 ###
 
-<h1 align="center">hey there KAPIL HERE 👋</h1>
+<h1 align="center">Hey there KAPIL HERE 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm Kapil  from India <br><br>- 🔭 I’m working as Data Science at Solytics <br>- 📚 I'm currently learning Machine Learning <br>- ⚡</p>
+<p align="left">I'm Kapil from India <br><br>- 🔭 I’m working as Data Science at Solytics <br>- 📚 I'm currently learning Machine Learning 
 
 ###
 
