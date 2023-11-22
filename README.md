@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Kapil from India <br><br>- 🔭 I’m working as Data Science at Solytics <br>- 📚 I'm currently learning Machine Learning 
+<p align="left">I'm Kapil from India <br><br>- 🔭 I’m working as Data Science @Solytics <br>- 📚 I'm currently learning Django-Rest Framework 
 
 ###
 
